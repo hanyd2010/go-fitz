@@ -1,3 +1,3 @@
-module github.com/gen2brain/go-fitz
+module github.com/hanyd2010/go-fitz
 
 go 1.17
